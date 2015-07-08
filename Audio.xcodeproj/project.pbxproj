@@ -13,6 +13,7 @@
 		823B19EB1B4CB1970067F982 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 823B19EA1B4CB1970067F982 /* Images.xcassets */; };
 		823B19EE1B4CB1970067F982 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 823B19EC1B4CB1970067F982 /* LaunchScreen.xib */; };
 		823B19FA1B4CB1970067F982 /* AudioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 823B19F91B4CB1970067F982 /* AudioTests.swift */; };
+		823B1A041B4CB1C30067F982 /* chopin-9-1-hammer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 823B1A031B4CB1C30067F982 /* chopin-9-1-hammer.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		823B19F31B4CB1970067F982 /* AudioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		823B19F81B4CB1970067F982 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		823B19F91B4CB1970067F982 /* AudioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTests.swift; sourceTree = "<group>"; };
+		823B1A031B4CB1C30067F982 /* chopin-9-1-hammer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "chopin-9-1-hammer.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				823B19E31B4CB1970067F982 /* AppDelegate.swift */,
+				823B1A031B4CB1C30067F982 /* chopin-9-1-hammer.mp3 */,
 				823B19E51B4CB1970067F982 /* ViewController.swift */,
 				823B19E71B4CB1970067F982 /* Main.storyboard */,
 				823B19EA1B4CB1970067F982 /* Images.xcassets */,
@@ -195,6 +198,7 @@
 				823B19E91B4CB1970067F982 /* Main.storyboard in Resources */,
 				823B19EE1B4CB1970067F982 /* LaunchScreen.xib in Resources */,
 				823B19EB1B4CB1970067F982 /* Images.xcassets in Resources */,
+				823B1A041B4CB1C30067F982 /* chopin-9-1-hammer.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
